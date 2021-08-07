@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单2</title>
+</head>
+<body>
+<form>
+    <input type=button value="按钮"><BR>
+    <button>按钮</button><BR>
+    <input type="submit" value="提交"><BR>
+    <input type="range" min="-100" max="500" step="100" value="100"><BR>
+    <input type="number">
+    <input type="checkbox">记住
+    <input type="radio">记住2<BR>  <!--选中后不能取消-->
+    <br>
+
+   <p> 程序员谁最帅:</p>
+    <input type="radio" name="a" checked>朱浩浩
+    <input type="radio" name="a" checked>朱浩浩
+    <input type="radio" name="a" checked>朱浩浩
+    <br>  <!--多选一-->
+
+    你最喜欢吃的水果是什么:
+    <select>
+    <option>苹果</option>
+    <option>香蕉</option>
+    <option>西瓜</option>
+    </select><br>  <!--只能获取已有的-->
+
+    <input type="text" list="datalist">
+    <datalist id="datalist">
+        <option>苹果</option>
+        <option>香蕉</option>
+        <option>西瓜</option>
+    </datalist>  <!--除了已有的还可以直接输入-->
+</form>
+</body>

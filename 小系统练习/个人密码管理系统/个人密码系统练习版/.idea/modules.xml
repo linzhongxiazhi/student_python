@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.iml" filepath="$PROJECT_DIR$/.idea/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/.idea/2.iml" filepath="$PROJECT_DIR$/../2/.idea/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../图书管理系统/GUI/.idea/GUI.iml" filepath="$PROJECT_DIR$/../图书管理系统/GUI/.idea/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/python.iml" filepath="$PROJECT_DIR$/../.idea/python.iml" />
+    </modules>
+  </component>
+</project>

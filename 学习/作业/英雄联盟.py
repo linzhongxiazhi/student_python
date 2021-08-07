@@ -1,0 +1,5 @@
+username = input("输入角色")
+equipment = input("请输入拥有的装备")
+buy_equipent = input("请输入想购买的装备")
+payment_amount= input("请输入付款金额")
+print("{}购买了{}装备,花了{}钱".format(username,buy_equipent,payment_amount))
